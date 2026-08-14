@@ -9,6 +9,6 @@ A lightweight Python prototype designed to evaluate semantic consistency and det
 
 ##  Quick Start
 
-### 1. Installation
+###  Installation
 ```bash
 pip install sentence-transformers
